@@ -19,7 +19,7 @@ const SingleUser = () => {
   }, []);
   return (
     <div>
-      <Link to="/">Back To Users</Link>
+      <Link to="/users">Back To Users</Link>
       <table border="1">
       
         <tr>

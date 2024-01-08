@@ -24,7 +24,7 @@ const Sidebar = () => {
    
     return (
        
-        <ul className='sidebar-menus' style ={{width:'150px', listStyleType:'none', backgroundColor:'black', margin:'0px'}} > 
+        <ul className='sidebar-menus' style ={{width:'200px', listStyleType:'none', backgroundColor:'black', margin:'0px', height:'100%'}} > 
 
             {
                 menus.map((menu, index)=>{

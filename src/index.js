@@ -6,7 +6,7 @@ import App from './App';
 
 ReactDOM.render(
   <BrowserRouter>
-  <div style={{display:'flex', gap:'10px', height:'100vh'}}>
+  <div style={{display:'flex', gap:'10px', height:'100%'}}>
     <Sidebar/>
     <App/>
     </div>
